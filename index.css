@@ -1,0 +1,117 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  display: grid;
+}
+#Header-Section {
+  display: flex;
+  background: springgreen;
+}
+.logo {
+  margin: 18px;
+  display: flex;
+  height: 64px;
+  width: 64px;
+  background: transparent;
+}
+nav {
+  display: block;
+  margin: 40px;
+}
+#Home {
+  padding: 2px;
+  width: 5%;
+  height: 25px;
+  background: transparent;
+  border: none;
+  font-size: 18px;
+  font-family: sans-serif;
+  position: relative;
+  left: 116px;
+}
+#About {
+  padding: 2px;
+  width: 5%;
+  height: 25px;
+  background: transparent;
+  border: none;
+  font-size: 18px;
+  font-family: sans-serif;
+  position: relative;
+  left: 250px;
+}
+#Product {
+  padding: 2px;
+  width: 5%;
+  height: 25px;
+  background: transparent;
+  border: none;
+  font-size: 18px;
+  font-family: sans-serif;
+  position: relative;
+  left: 384px;
+}
+#Contact {
+  padding: 2px;
+  width: 5%;
+  height: 25px;
+  background: transparent;
+  border: none;
+  font-size: 18px;
+  font-family: sans-serif;
+  position: relative;
+  left: 518px;
+}
+/* back{
+	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbgIud55CFRZm-FplAQf9VJTX9Xxz9Ebu1MA&s
+} */
+#Hero-Section {
+  display: flex;
+  background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdxeuS6SAu32wlxeVg8yyPClNpgiSiuz8_-8EXz2QL0HMijOb6IGIhFBnfL_VPUY0g_iGBSTkuq2z1mbhE0wsUUusisUjOxZ3XsF5-ght6L8EUJPD4T5o3Y3tKJ1MO8FAF7JG88wG3lEd8YslYFHeDtFV3kxc0bt2OsmvaNSdiS3jciBXdc1dSVco3uA/s16000-rw/main%20feature%20image%202011.gif)
+    no-repeat center center fixed;
+  background-size: cover;
+  height: 300px;
+  text-align: center;
+  justify-content: center;
+  color: white;
+}
+p {
+  font-size: 19px;
+  font-family: monospace;
+  margin-top: 145px;
+}
+#Product-Section {
+  display: flex;
+}
+.card1{
+	display: block;
+    margin: auto;
+}
+.card2{
+	display: block;
+    margin: auto;
+}
+.card3{
+	display: block;
+    margin: auto;
+}
+.card4{
+	display: block;
+    margin: auto;
+}
+.card5{
+	display: block;
+    margin: auto;
+}
+.card6{
+	display: block;
+    margin: auto;
+}
+.card7{
+	display: block;
+    margin: auto;
+}
+.card8{
+	display: block;
+    margin: auto;
+}
