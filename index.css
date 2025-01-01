@@ -4,8 +4,11 @@ body {
   display: grid;
 }
 #Header-Section {
-  display: flex;
-  background: springgreen;
+  display: flex
+  ;
+      position: fixed;
+      background: springgreen;
+      width: 100%;
 }
 .logo {
   margin: 18px;
@@ -62,56 +65,84 @@ nav {
   position: relative;
   left: 518px;
 }
-/* back{
-	https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbgIud55CFRZm-FplAQf9VJTX9Xxz9Ebu1MA&s
-} */
 #Hero-Section {
   display: flex;
   background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdxeuS6SAu32wlxeVg8yyPClNpgiSiuz8_-8EXz2QL0HMijOb6IGIhFBnfL_VPUY0g_iGBSTkuq2z1mbhE0wsUUusisUjOxZ3XsF5-ght6L8EUJPD4T5o3Y3tKJ1MO8FAF7JG88wG3lEd8YslYFHeDtFV3kxc0bt2OsmvaNSdiS3jciBXdc1dSVco3uA/s16000-rw/main%20feature%20image%202011.gif)
-    no-repeat center center fixed;
+      no-repeat center center fixed;
+  /* background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbgIud55CFRZm-FplAQf9VJTX9Xxz9Ebu1MA&s); */
   background-size: cover;
-  height: 300px;
+  height: 455px;
   text-align: center;
   justify-content: center;
   color: white;
 }
 p {
-  font-size: 19px;
-  font-family: monospace;
-  margin-top: 145px;
+  font-size: 13.5px;
+  font-family: sans-serif;
+  margin-top: 50px;
 }
 #Product-Section {
   display: flex;
+  width: 41.2%;
+  height: 100%;
 }
-.card1{
-	display: block;
-    margin: auto;
+#Product-Header2 {
+  display: flex;
+  width: 41.2%;
+  height: 100%;
+  margin-top: 15px;
 }
-.card2{
-	display: block;
-    margin: auto;
+.card1 {
+  display: block;
+  margin: 0px 15px;
+  border: 2px solid black;
 }
-.card3{
-	display: block;
-    margin: auto;
+.card2 {
+  display: block;
+  border: 2px solid black;
+  margin: 0px 15px;
 }
-.card4{
-	display: block;
-    margin: auto;
+.card3 {
+  display: block;
+  border: 2px solid black;
+  margin: 0px 15px;
 }
-.card5{
-	display: block;
-    margin: auto;
+.card4 {
+  display: block;
+  border: 2px solid black;
+  margin: 0px 15px;
 }
-.card6{
-	display: block;
-    margin: auto;
+.card5 {
+  display: block;
+  border: 2px solid black;
+  margin: 0px 15px;
 }
-.card7{
-	display: block;
-    margin: auto;
+.card6 {
+  display: block;
+  border: 2px solid black;
+  margin: 0px 15px;
 }
-.card8{
-	display: block;
-    margin: auto;
+.card6 img{
+  width: 274px;
+}
+.card7 {
+  display: block;
+  border: 2px solid black;
+  margin: 0px 15px;
+}
+.card7 img{
+  width: 238px;
+}
+.card8 {
+  display: block;
+  border: 2px solid black;
+  margin: 0px 15px;
+}
+.card8 img{
+  width: 274px;
+}
+#Footer-Section{
+  position: relative;
+  top: 15px;
+  text-align: center;
 }
