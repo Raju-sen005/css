@@ -1,0 +1,182 @@
+body {
+  background: radial-gradient(#3a3ab7, transparent);
+}
+.logo {
+  margin: 18px;
+  display: flex;
+  height: 40px;
+  width: 40px;
+  background: transparent;
+}
+nav {
+  display: block;
+  margin: 30px;
+  position: absolute;
+  left: -50px;
+}
+#Home {
+  padding: 0px;
+  width: 5%;
+  height: 25px;
+  background: transparent;
+  border: none;
+  font-size: 15px;
+  font-family: sans-serif;
+  position: relative;
+  left: 116px;
+  color: white;
+}
+#About {
+  padding: 0px;
+  width: 5%;
+  height: 25px;
+  background: transparent;
+  border: none;
+  font-size: 15px;
+  font-family: sans-serif;
+  position: relative;
+  left: 180px;
+  color: white;
+}
+#Product {
+  padding: 0px;
+  width: 5%;
+  height: 25px;
+  background: transparent;
+  border: none;
+  font-size: 15px;
+  font-family: sans-serif;
+  position: relative;
+  left: 250px;
+  color: white;
+}
+#Contact {
+  padding: 0px;
+  width: 5%;
+  height: 25px;
+  background: transparent;
+  border: none;
+  font-size: 15px;
+  font-family: sans-serif;
+  position: relative;
+  left: 325px;
+  color: white;
+}
+#Hero-Section {
+  display: flex;
+  /* background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdxeuS6SAu32wlxeVg8yyPClNpgiSiuz8_-8EXz2QL0HMijOb6IGIhFBnfL_VPUY0g_iGBSTkuq2z1mbhE0wsUUusisUjOxZ3XsF5-ght6L8EUJPD4T5o3Y3tKJ1MO8FAF7JG88wG3lEd8YslYFHeDtFV3kxc0bt2OsmvaNSdiS3jciBXdc1dSVco3uA/s16000-rw/main%20feature%20image%202011.gif) no-repeat center center fixed; */
+  background: url(https://i.makeagif.com/media/5-02-2020/9JK1sD.gif);
+  background-size: cover;
+  height: 310px;
+  text-align: center;
+  justify-content: center;
+  color: white;
+}
+#Product-Section {
+  display: flex;
+  flex-direction: column;
+  width: 41.2%;
+  height: 100%;
+  margin-top: 2%;
+  position: relative;
+  left: 4%;
+}
+.card1{
+  display: block;
+  margin: 25px 36.5px;
+  /* border: 2px solid black; */
+}
+.card2 img{
+  height: 164px;
+  width: 310px;
+  position: relative;
+  left: 14px;
+}
+.card3 img{
+  height: 164px;
+  width: 310px;
+  margin-top: 25px;
+  position: relative;
+  left: 14px;
+}
+.card4 img{
+  height: 164px;
+  width: 310px;
+  margin-top: 25px;
+  position: relative;
+  left: 14px;
+}
+#Product-Header2 {
+  display: flex;
+  flex-direction: column;
+  width: 41.2%;
+  height: 100%;
+  margin-top: 4%;
+  position: relative;
+  left: 4%;
+}
+.card5 img{
+  height: 164px;
+  width: 310px;
+  margin-top: 25px;
+  position: relative;
+  left: 14px;
+}
+.card6 img{
+  height: 164px;
+  width: 310px;
+  margin-top: 25px;
+  position: relative;
+  left: 14px;
+}
+.card7 img{
+  height: 164px;
+  width: 310px;
+  margin-top: 25px;
+  position: relative;
+  left: 14px;
+}
+.card8 img{
+  height: 164px;
+  width: 310px;
+  margin-top: 25px;
+  position: relative;
+  left: 14px;
+}
+#Product-Header3 {
+  display: flex;
+  flex-direction: column;
+  width: 41.2%;
+  height: 100%;
+  margin-top: 4%;
+  position: relative;
+  left: 4%;
+}
+.card9 img{
+  height: 164px;
+  width: 310px;
+  margin-top: 25px;
+  position: relative;
+  left: 14px;
+}
+.card10 img{
+  height: 164px;
+  width: 310px;
+  margin-top: 25px;
+  position: relative;
+  left: 14px;
+}
+.card11 img{
+  height: 164px;
+  width: 310px;
+  margin-top: 25px;
+  position: relative;
+  left: 14px;
+}
+.card12 img{
+  height: 164px;
+  width: 310px;
+  margin-top: 25px;
+  position: relative;
+  left: 14px;
+}
