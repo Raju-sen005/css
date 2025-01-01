@@ -64,7 +64,6 @@ nav {
 }
 #Hero-Section {
   display: flex;
-  /* background: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdxeuS6SAu32wlxeVg8yyPClNpgiSiuz8_-8EXz2QL0HMijOb6IGIhFBnfL_VPUY0g_iGBSTkuq2z1mbhE0wsUUusisUjOxZ3XsF5-ght6L8EUJPD4T5o3Y3tKJ1MO8FAF7JG88wG3lEd8YslYFHeDtFV3kxc0bt2OsmvaNSdiS3jciBXdc1dSVco3uA/s16000-rw/main%20feature%20image%202011.gif) no-repeat center center fixed; */
   background: url(https://i.makeagif.com/media/5-02-2020/9JK1sD.gif);
   background-size: cover;
   height: 310px;
@@ -84,7 +83,6 @@ nav {
 .card1{
   display: block;
   margin: 25px 36.5px;
-  /* border: 2px solid black; */
 }
 .card2 img{
   height: 164px;
