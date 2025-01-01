@@ -74,7 +74,7 @@ nav {
 }
 #Hero-Section {
   display: flex;
-  background: url(https://i.makeagif.com/media/5-02-2020/9JK1sD.gif);
+/*   background: url(https://i.makeagif.com/media/5-02-2020/9JK1sD.gif); */
   background-size: cover;
   height: 654px;
   text-align: center;
