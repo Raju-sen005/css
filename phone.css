@@ -1,5 +1,7 @@
 body {
   background: radial-gradient(#3a3ab7, transparent);
+    position: relative;
+
 }
 .logo {
   margin: 18px;
