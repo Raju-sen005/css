@@ -116,6 +116,7 @@ p {
 }
 .card2 img {
   height: 164px;
+  width: 300px;
 }
 .card3 {
   display: block;
@@ -124,7 +125,7 @@ p {
 }
 .card3 img {
   height: 164px;
-  width: 233px;
+  width: 300px;
 }
 .card4 {
   display: block;
@@ -133,6 +134,7 @@ p {
 }
 .card4 img {
   height: 164px;
+  width: 300px;
 }
 .card5 {
   display: block;
@@ -146,7 +148,7 @@ p {
 }
 .card6 img {
   height: 164px;
-  width: 246px;
+  width: 300px;
 }
 .card7 {
   display: block;
@@ -155,18 +157,17 @@ p {
 }
 .card7 img {
   height: 164px;
-  width: 233px;
+  width: 300px;
 }
 .card8 {
   display: block;
   /* border: 2px solid black; */
   margin: 0px 25px;
 }
+
 .card8 img {
-  width: 274px;
-}
-.card8 img {
-  width: 246px;
+  width: 300px;
+
   height: 164px;
 }
 #Footer-Section {
@@ -188,7 +189,7 @@ p {
   /* border: 2px solid black; */
 }
 .card9 img {
-  width: 311px;
+  width: 300px;
 }
 .card10 {
   display: block;
@@ -196,7 +197,8 @@ p {
   /* border: 2px solid black; */
 }
 .card10 img {
-  width: 246px;
+  width: 300px;
+
   height: 158px;
 }
 .card11 {
@@ -205,7 +207,8 @@ p {
   /* border: 2px solid black; */
 }
 .card11 img {
-  width: 235px;
+  width: 300px;
+
   height: 158px;
 }
 .card12 {
@@ -214,6 +217,7 @@ p {
   /* border: 2px solid black; */
 }
 .card12 img {
-  width: 244px;
+  width: 300px;
+
   height: 159px;
 }
