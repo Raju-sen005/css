@@ -73,6 +73,7 @@ nav {
   justify-content: center;
   color: white;
   width: 105%;
+  border: 2px solid black;
 }
 #Product-Section {
   display: flex;
